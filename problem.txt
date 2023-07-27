@@ -4,131 +4,24 @@
 
 
 
- <h1>About Us</h1>
-        </header>
-        <div class="container">
-            <h2>Who We Are</h2>
-            <p>Welcome to Glocal Bazaar - Your Gateway to Seamless Shopping!
-        
-        Founded in 2023, Glocal Bazaar emerged with a single mission: to empower and simplify the way people buy products. We witnessed the struggles and obstacles individuals faced while trying to make purchases, and we knew it was time to bridge the gap between customers and their favorite products. Our passion for enhancing the shopping experience and supporting local communities led us to create this transformative platform.
-        
-        At Glocal Bazaar, we believe that shopping should be a joyous and hassle-free experience for everyone. Our vision is to connect people to their local stores effortlessly while offering an extensive range of products sourced both locally and internationally. We are committed to making the entire process seamless, ensuring that you can access everything you need right at your fingertips.
-        
-        Why Glocal Bazaar?
-        
-        1. Connecting Locally, Expanding Globally: We take pride in being the bridge that connects you to your trusted local stores, providing you with access to their products without leaving the comfort of your home. Additionally, we have curated a global selection of items, so you can discover unique products from around the world, all on one platform.
-        
-        2. Simplifying Shopping: We understand that navigating various stores and dealing with complex purchasing procedures can be frustrating. Glocal Bazaar simplifies this process by offering a user-friendly interface, intuitive search tools, and secure payment options, allowing you to shop with ease.
-        
-        3. Fast and Reliable Delivery: Your satisfaction is our priority, and we know how important it is to receive your purchases promptly. We partner with reliable delivery services to ensure that your products reach your doorstep as quickly as possible.
-        
-        4. Supporting Local Communities: By embracing the spirit of "glocal" (global + local), we are committed to supporting local businesses and artisans, empowering them to reach a broader audience and thrive in today's digital age.
-        
-        5. Exceptional Customer Care: Our dedicated customer support team is always ready to assist you with any inquiries or concerns. We are here to make your shopping journey smooth and enjoyable.
-        
-        Join the Glocal Bazaar Community:
-        
-        At Glocal Bazaar, we believe that shopping should be an adventure, an exploration of diverse products, and a celebration of cultures. We invite you to join our community of passionate shoppers who value convenience, variety, and the joy of discovering treasures from near and far.
-        
-        Thank you for choosing Glocal Bazaar as your go-to e-commerce destination. Together, let's revolutionize the way we shop and support each other in this exciting journey of discovery.
-        
-        Happy Shopping,
-        The Glocal Bazaar Team
-        
-    </p>
-            <h2>Our Mission</h2>
-            <p>At Glocal Bazaar, our mission is to revolutionize the way people shop by creating an inclusive, seamless, and empowering platform that connects communities both locally and globally. We strive to enhance the shopping experience for our customers, making it easier and more enjoyable to access a diverse range of products.
+ <!-- Login Section -->
+<section class="login-section">
+  <h2>Login</h2>
 
-        1. Empowering Accessibility: We are dedicated to making shopping accessible to all, eliminating barriers and complexities that hinder individuals from purchasing their desired products. Our platform is designed to be user-friendly, ensuring that everyone can easily find and buy what they need.
-        
-        2. Supporting Local Businesses: We are passionate about promoting local businesses and artisans, helping them flourish by providing them with a digital marketplace to reach a broader audience. By empowering these local entrepreneurs, we contribute to the growth and sustainability of communities around us.
-        
-        3. Curating Global Selections: In addition to our focus on local products, we are committed to curating a global selection that introduces our customers to unique and diverse items from different corners of the world. Our aim is to inspire exploration and appreciation of various cultures through the products we offer.
-        
-        4. Fostering Convenience: We understand the value of time and convenience in today's fast-paced world. As such, we prioritize creating a hassle-free shopping experience that saves our customers both time and effort, enabling them to make their purchases efficiently.
-        
-        5. Ensuring Fast Delivery: We recognize the importance of timely delivery, and we work with trusted logistics partners to ensure that products reach our customers' doorsteps as swiftly and reliably as possible.
-        
-        6. Delivering Exceptional Service: Our commitment to customer satisfaction is unwavering. We aim to provide exceptional customer service, promptly addressing any concerns, queries, or feedback to ensure a positive and fulfilling shopping journey.
-        
-        7. Cultivating a Joyful Shopping Experience: At Glocal Bazaar, we believe that shopping should be a delightful experience filled with exploration, excitement, and discovery. We aim to infuse joy into every aspect of our platform, from the selection of products to the checkout process.
-        
-        As we move forward, we remain dedicated to our mission, constantly evolving and innovating to meet the evolving needs and desires of our customers. Together with our vibrant community of shoppers and sellers, we are shaping a future where shopping knows no boundaries, and connections between people and products are celebrated and cherished.
-    </p>
-            <h2>What Sets Us Apart</h2>
-            <ul>At Glocal Bazaar, we take immense pride in what sets us apart from other e-commerce platforms. We are not just another online store; we are a transformative shopping destination that offers a distinctive and enriching experience for our valued customers. Here are the key factors that make us stand out:
+    <!-- Google Login -->
+    <a href="login_google.php">Login with Google</a><br>
 
-        1. **Glocal Philosophy:** Our unique "glocal" approach, blending the best of "global" and "local," sets us apart. We celebrate diversity by offering a wide range of products from around the world while also promoting and supporting local businesses. This philosophy allows us to connect people to both familiar and exotic items, fostering a sense of global community.
-        
-        2. **Extensive Product Diversity:** We take great care in curating an extensive and diverse collection of products. From local artisan crafts and traditional favorites to innovative international finds, our platform is a treasure trove of choices, catering to a broad spectrum of tastes and preferences.
-        
-        3. **Empowerment of Local Businesses:** Supporting and empowering local businesses is at the heart of what we do. By providing a digital marketplace for local sellers, we facilitate their growth and expansion, enabling them to reach a larger audience and flourish in the online realm.
-        
-        4. **Seamless Shopping Experience:** Our user-friendly interface and intuitive search tools ensure a seamless shopping experience. Customers can easily navigate our platform, find products they love, and complete their purchases with utmost convenience.
-        
-        5. **Fast and Reliable Delivery:** We understand the significance of prompt delivery, and we partner with trusted logistics services to ensure that our customers receive their orders quickly and reliably. Timely delivery is one of our top priorities.
-        
-        6. **Customer-Centric Approach:** At Glocal Bazaar, our customers are at the core of everything we do. We are committed to providing exceptional customer service, promptly addressing queries, and resolving any issues that may arise.
-        
-        7. **Cultural Discovery:** Our platform is not just about buying products; it's an avenue for cultural discovery. Through our global selection, customers can explore and appreciate the richness of different cultures, fostering a sense of connection and understanding.
-        
-        8. **Social Impact:** We believe that business should be a force for good, and we integrate sustainability and social impact into our operations. By supporting local businesses and artisans, we contribute to the economic growth and well-being of communities.
-        
-        9. **Community Building:** Glocal Bazaar is more than a marketplace; it's a vibrant community of like-minded shoppers, sellers, and enthusiasts. We foster a sense of belonging and camaraderie, encouraging interactions and collaborations among our members.
-        
-        10. **Continuous Innovation:** We are committed to constant improvement and innovation. We regularly update and enhance our platform to offer the best possible shopping experience, staying ahead of industry trends and customer needs.
-        
-        At Glocal Bazaar, our vision goes beyond transactional interactions. We aspire to be a catalyst for positive change, promoting cultural exchange, empowering local businesses, and bringing joy to the lives of our customers. Together, let's embrace the global-local spirit and embark on an extraordinary shopping journey unlike any other.
-    </ul>
-            <h2>Our Commitment</h2>
-            <p>At Glocal Bazaar, our commitment is unwavering and lies at the core of everything we do. We are dedicated to fulfilling our promise to our customers, sellers, and the communities we serve. Our commitment revolves around the following key principles:
+    <!-- Facebook Login -->
+    <a href="login_facebook.php">Login with Facebook</a><br>
 
-        1. **Customer Satisfaction:** Our customers are our priority, and their satisfaction is paramount. We are committed to providing a seamless and enjoyable shopping experience, from the moment they browse our platform to the timely delivery of their purchases. We actively listen to customer feedback and continuously improve our services to meet their evolving needs.
-        
-        2. **Transparency and Trust:** We believe in fostering trust through transparency. We are open and honest in our dealings with customers, sellers, and partners, ensuring clear communication, fair pricing, and genuine product information. Building trust is the foundation of strong and enduring relationships.
-        
-        3. **Quality and Authenticity:** We are dedicated to offering products of the highest quality, whether sourced locally or internationally. We vouch for the authenticity of every item on our platform, and our rigorous quality checks ensure that customers receive products that meet their expectations.
-        
-        4. **Supporting Local Communities:** Our commitment to supporting local businesses and artisans remains steadfast. By providing a digital marketplace, we empower these entrepreneurs to thrive in the digital age, strengthening local economies and preserving traditional crafts and skills.
-        
-        5. **Sustainability and Social Impact:** We embrace our responsibility to make a positive impact on society and the environment. We actively seek sustainable practices, reduce our ecological footprint, and contribute to social causes that uplift communities.
-        
-        6. **Data Security and Privacy:** We take data security and customer privacy seriously. Our robust systems and protocols ensure the protection of personal information, and we adhere to the highest standards to safeguard customer data.
-        
-        7. **Innovation and Adaptability:** The world is ever-changing, and we are committed to staying at the forefront of innovation. We continuously strive to enhance our platform, adopt cutting-edge technologies, and adapt to the evolving needs and trends in the e-commerce landscape.
-        
-        8. **Community Engagement:** We aim to foster a vibrant and engaged community of customers and sellers. We encourage interactions, collaborations, and knowledge-sharing, creating a sense of belonging and camaraderie within the Glocal Bazaar community.
-        
-        9. **Ethical Business Practices:** Our commitment to ethical business practices guides every decision we make. We uphold integrity, fairness, and social responsibility in all our operations, ensuring that we conduct ourselves with the utmost ethical standards.
-        
-        10. **Continuous Growth:** We are driven by a passion for growth and improvement. As we expand, our commitment to our core values remains steadfast, and we aspire to make a positive impact on an ever-widening audience.
-        
-        Glocal Bazaar's commitment is not just a promise; it is the driving force behind our daily efforts to create a platform that empowers, connects, and brings joy to people's lives. We are honored to be a part of your shopping journey and look forward to building a bright and fulfilling future together.
-    </p>
-            <h2>Join Us on Our Journey</h2>
-            <p>At Glocal Bazaar, we believe that the journey of transforming shopping experiences is one that we embark upon together with our valued customers, sellers, and partners. We invite you to join us on this exciting and enriching adventure, where we celebrate diversity, empower local communities, and create lasting connections across borders. Here's why you should join us:
+    <h3>Welcome to Glocal Bazaar! Please login</h3>
+    <form action="process_login.php" method="post">
+        <label for="username">Username:</label>
+        <input type="text" name="username" required><br>
 
-        1. **Explore a World of Possibilities:** At Glocal Bazaar, we offer an extensive selection of products from Nepal and around the globe. Discover unique treasures, traditional crafts, and innovative finds from different cultures, all in one place. Every visit to our platform is an opportunity to explore new possibilities.
-        
-        2. **Support Local Businesses:** By choosing Glocal Bazaar, you actively contribute to the growth and prosperity of local businesses and artisans. With each purchase, you become a part of the movement to preserve traditional craftsmanship and support the entrepreneurial dreams of local sellers.
-        
-        3. **Convenience at Your Fingertips:** We've designed our platform with your convenience in mind. Our user-friendly interface and intuitive search features make it effortless to find the products you love. Shopping with us is easy, efficient, and enjoyable.
-        
-        4. **Embrace the Glocal Spirit:** Join our vibrant community and embrace the "glocal" spirit that celebrates both the global and local connections. Experience the joy of cultural exchange, as we bring the world to your doorstep while staying rooted in the local ethos.
-        
-        5. **Make an Impact:** Together, we can make a positive impact on society and the environment. Through your choices, you contribute to sustainable practices and social causes that uplift communities and protect our planet.
-        
-        6. **Customer-Centric Experience:** We value your satisfaction above all else. Our dedicated customer support team is here to assist you every step of the way, ensuring your journey with Glocal Bazaar is met with care and attention.
-        
-        7. **Be Part of the Innovation:** As we grow and evolve, you'll witness and be a part of our ongoing innovation. Join us in shaping the future of shopping by embracing new technologies and ideas that enhance your experience.
-        
-        8. **Connect and Engage:** Glocal Bazaar is more than just an online marketplace; it's a community. Connect with like-minded shoppers, engage with sellers, and share your passion for unique products and cultural diversity.
-        
-        9. **Celebrate Shopping:** At Glocal Bazaar, we believe that shopping should be a celebration of cultures, craftsmanship, and human connections. Join us in celebrating the joy of shopping as we redefine what it means to discover and acquire products.
-        
-        10. **Join the Movement:** By joining Glocal Bazaar, you become a part of a movement that transcends borders and fosters a global sense of togetherness. Together, we can make a positive difference in the lives of people and communities.
-        
-        So, come on board and experience shopping like never before. Join us on our journey of making the world more accessible, connected, and filled with joy through the power of Glocal Bazaar. Together, we can create a world where shopping knows no boundaries, and every purchase becomes a meaningful act of support and celebration. Let's embark on this incredible adventure together!
-    </p>
-        </div>
-    </body>
+        <label for="password">Password:</label>
+        <input type="password" name="password" required><br>
+
+        <input type="submit" value="Login">
+    </form>
+</section>
